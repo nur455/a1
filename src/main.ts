@@ -13,6 +13,6 @@ async function bootstrap() {
   const a = 5;
   console.log('start', startMessage, a);
   const b = 6;
-  console.log('branch2', startMessage, a, b);
+  console.log('ddd', startMessage, a, b);
 }
 bootstrap();
